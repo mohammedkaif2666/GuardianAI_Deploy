@@ -358,9 +358,11 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     # We remove 'MarkdownV2' mode to avoid "Can't parse entities" formatting crashes
     await context.bot.delete_message(chat_id=chat_id, message_id=status_msg.message_id)
     await context.bot.send_message(chat_id=chat_id, text=format_report(analysis))
-
+from keep_alive import keep_alive
+keep_alive()
 if __name__ == '__main__':
     app = ApplicationBuilder().token(BOT_TOKEN).build()
     app.add_handler(MessageHandler(filters.PHOTO | (filters.TEXT & ~filters.COMMAND), handle_message))
     print("🛡️ Guardian AI (Dual-Log System) is Live...")
+
     app.run_polling()
