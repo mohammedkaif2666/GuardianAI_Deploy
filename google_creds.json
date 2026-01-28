@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "guardianai-485207",
+  "private_key_id": "d5a7ff115b30992cf0d4f274fe20ec3fd4260146",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCrqIEYOQqd6zRL\ndB2hpdIzmqbir9NYoSFqIT1t0mBnD7eSgJKxnGPNpkYeIF2nNsX1vfWLw1Uitc6j\nsGRoOarRlm3EpA9K3kLmVH2xevC/GIHGIyWyD89n/wtZMqFXNdXLuHbkGAkluaS/\n6XlBtkOx2yERxFhlfmhz8FAhTPqZl+fjRONLb+ZXi+2vvwwEwVHUcFhgzJGXC+fb\ngyObDYBjHwvxaZI3VjZUdRdEf+SRtTeuP3VlTg9LY46Wn8gCMgWR4F7ZIDpZUuAl\npioFBmbhc/w4bdlhXsUzIVESJFDv6xQc7sSZbrNOzYANnt40n72AEtDL+RAYhsb6\n6y5/djH1AgMBAAECggEAA2H9NUh+fJEzhR8jLFnTtB+ilUoIvLDkMy63grAIJU/K\netEc0vI1h0p1DEfwAIkUSpz1N01gop/5lAE4YVNtmdbAkAT5piyOHfLhTTuSffmS\nKSDtL76fBDoi852LT2gor+yRLzqIB53KcNu9f32DhQA//RUk9s8QaOR998IIGDm9\nV0Nz/0zjp5uj2Q1A5LKgVHE46QtROTGdSHkp92RkaGKxHsJDw5lGKhzaL/Ftmt54\n8vryFWvXh05xoV8kFGo/J7uz94YNoS4BIPRThbD82xxX3gmXvq9Iwhd23r1m9uX2\naC4b+CwWCie/ghhvYRyZTkale0OFlQBDc8dtOlazsQKBgQDiVxi5RfxLt5ltaR8k\n8R+CVu8DC7FwhkwZmJ8jC4zaqaUeJUwvowHf3152xtIdnvvYuKaJvUsrtoxhmwwH\na+YpIeXiEfEsYGJu6jc5dXgkBEulTkTUQY/kJA4gl2YbAUoEqH5RyPyg3omz4cFX\n5MYLdbWPTk8T+YnBnu+DhGvfvQKBgQDCJwXBzpE/Ja/PIQrA7d4QS1huJ/dMLQcR\n74zMODcMcjJe5B9DfG+9KEZv98JIhkhsDRtvZjegDvLwXT7TNWbOEgz7MmqWy+q7\nX9DD9T16PyMwrppxyt2PBVFwETyI7SgvcF9fO96OFFVOusrlpWLhJHCH+b+fDXoB\n4c4TfRYCmQKBgB7rmRQObIYHge1BdCC+0/ghWiuHWGkv34uLnwnRlR92F3mDzOGh\nGit0P1polOG5C1yy9QVSF8fT+1+GJ+GHqvyphdcZbmIKlMfkNUEjPBNnhtIBXEPG\n5RpclpV7OVatGWiDgCY6F9D+Nb+eMqSIO0nrfa8jGoh3CYuq47uKxpXdAoGAf71K\n9WOifsid7oqP17XpKBFaokdbVtw9TZitq2PFHEQ6TeKLi0xg/DR2e46oXi0zkxvg\nlB/Ns1qCjpDbF/2HoUeREOjv5j1OOG/nHDbLdxX5YjtO1FWkBkh6d2Bv0qsuiF/H\n8BGk8RgBtKYDfqqc7wKZo203nT8xqfFWM85V3+kCgYBgSery4JPLjxrxXPOnkmLK\nXPWoDoBTALMq8hFQgRiMX/N2STSKQSNLFr0x+n7tGovMf2fhessbhF6HEQ+19Vui\n9StiK0QFo6AqECWCWiG82F4iIA+coy68jx7CvGBpSpXPqleSE/XCoLwEymTz9MZo\nDAEa9eC+0i2mJIVbhvz5LQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "guardianai-logger@guardianai-485207.iam.gserviceaccount.com",
+  "client_id": "114471900631829226114",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/guardianai-logger%40guardianai-485207.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,8 @@
+python-telegram-bot
+python-dotenv
+google-genai
+pillow
+pandas
+openpyxl
+gspread
+oauth2client
